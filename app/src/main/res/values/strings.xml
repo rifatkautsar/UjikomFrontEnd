@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LatihanUjikom</string>
+
+    // todo string here
+    <string name="TambahUser">user</string>
+    <string name="Barang">Barang</string>
+    <string name="Inventaris">Inventaris</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--Todo Spinner-->
+
+    <string-array name="Daftar_sebagai">
+        <item>Administrator</item>
+        <item>Operator</item>
+        <item>Peminjam</item>
+
+    </string-array>
+
+
+    <string-array name="Level">
+        <item>1/Administrator</item>
+        <item>2/Operator</item>
+        <item>3/Peminjam</item>
+
+    </string-array>
+
+    <!--end off todo spinner-->
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tambah_menu"
+        android:title="@string/TambahUser"
+        android:icon="@drawable/ic_person_add_black_24dp"/>
+
+    <item
+        android:id="@+id/barang_menu"
+        android:title="@string/Barang"
+        android:icon="@drawable/ic_folder_black_24dp"/>
+
+    <item
+        android:id="@+id/inventaris_menu"
+        android:title="@string/Inventaris"
+        android:icon="@drawable/ic_file_download_black_24dp"/>
+
+</menu>
